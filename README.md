@@ -1,11 +1,18 @@
 ### Makers Bot!
 
 
+#### To run:
+
+* Install node with `brew install node`
+* Install library dependencies with `npm install`
+* Run the script with `node index.js`
+* Run the tests with `npm test`
+
 ```
   As a manager,
   so that my staff can keep up to date with what is being said about the
   company on social media
-  I would like tweets with #makersacademy to be posted to a slack channel
+  I would like to receive a text message of tweets with #mackersacademy in the hashtag
 ```
 
 ```
@@ -17,7 +24,8 @@
 
 #### Implementation hints:
 
-* Speak to a coach about getting API keys for this.
+* You will need to use the Twitter API and the Twilio (or any other texting service api for this).
+* There is a `config.example.js` file which has the fields needed for the twitter
 
 ```
   As a manager,
@@ -38,4 +46,9 @@ very **careful** that api keys are kept secret!
 #### Implementation details:
 
 * This one is slightly harder. If you don't get time to implement this
-try and diagram what a solution could look like. 
+try and diagram what a solution could look like.
+
+
+#### Skills needed:
+
+* The call to the Twitter API uses something called a callback.

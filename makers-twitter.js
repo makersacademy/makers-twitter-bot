@@ -2,7 +2,6 @@ const  Twitter = require('twitter');
 const config = require('./config.js');
 
 const T = new Twitter(config);
-const token = config.slack_api_key; 
 
 var params = {
   q: '#makersacademy',

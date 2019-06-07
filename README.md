@@ -10,14 +10,14 @@
 
 ```
   As a manager,
-  so that my staff can keep up to date with what is being said about the
+  so that I can keep up to date with what is being said about the
   company on social media
   I would like to receive a text message of tweets with #mackersacademy in the hashtag
 ```
 
 ```
   As a manager,
-  so that my staff can see just relevant details
+  so that I can see just relevant details
   I would only like to see original tweets with the text, user and creation time.
 ```
 
@@ -29,8 +29,8 @@
 
 ```
   As a manager,
-  so that my staff never miss a tweet
-  I would like tweets to be posted on a regular schedule (every day or so)
+  so that I never miss a tweet
+  I would like tweets to be texted on a regular schedule (every day or so)
 ```
 
 #### Implementation details:
@@ -40,7 +40,7 @@ very **careful** that api keys are kept secret!
 
 ```
   As a manager,
-  so that my staff are not notified unduly
+  so that I am not notified unduly
   I only want to see a post if there are new tweets available.
 ```
 #### Implementation details:

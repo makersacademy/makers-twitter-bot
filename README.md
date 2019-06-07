@@ -25,7 +25,8 @@
 #### Implementation hints:
 
 * You will need to use the Twitter API and the Twilio (or any other texting service api for this).
-* There is a `config.example.js` file which has the fields needed for the twitter
+* There is a `config.example.js` file which has the fields needed for the twitter. Copy this to
+`config.js` and add the relevant data from the Twitter API
 
 ```
   As a manager,

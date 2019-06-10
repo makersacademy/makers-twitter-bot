@@ -53,5 +53,5 @@ try and diagram what a solution could look like.
 #### Skills needed:
 
 * The call to the Twitter API uses something called a callback. You can find out
-about these (here)[https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced]
+about these [here](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 or feel free to speak to coach to help you get started

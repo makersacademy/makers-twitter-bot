@@ -1,3 +1,4 @@
 js/config.js
-node_modules/
-package-lock.json
+js/node_modules/
+js/package-lock.json
+ruby/.env

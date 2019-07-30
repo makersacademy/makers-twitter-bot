@@ -9,6 +9,13 @@
 * Run the script with `node index.js`
 * Run the tests with `npm test`
 
+#### To run the ruby project:
+
+* `cd ruby`
+* `bundle install`
+* `cp .env.example .env` (you will need keys for this - speak to a coach)
+* `ruby makers-twitter.rb`
+
 ```
   As a manager,
   so that I can keep up to date with what is being said about the

@@ -1,9 +1,9 @@
 ### Makers Bot!
 
-sjdflkdsj
 
-#### To run:
+#### To run the javascript project:
 
+* `cd js`
 * Install node with `brew install node`
 * Install library dependencies with `npm install`
 * Run the script with `node index.js`
